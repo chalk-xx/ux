@@ -1468,9 +1468,13 @@ define(function(){
         skinCSS: [],
 
         Languages: [{
+            "country": "HK",
+            "language": "zh",
+            "displayName": "繁體中文"
+        }, {
             "country": "CN",
             "language": "zh",
-            "displayName": "中文"
+            "displayName": "简体中文"
         }, {
             "country": "NL",
             "language": "nl",
