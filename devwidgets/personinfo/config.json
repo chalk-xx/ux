@@ -6,7 +6,8 @@
     "type":"sakai",
     "enabled":true,
     "i18n": {
-        "default": "/devwidgets/personinfo/bundles/default.properties"
+        "default": "/devwidgets/personinfo/bundles/default.properties",
+        "zh_HK": "/devwidgets/personinfo/bundles/zh_HK.properties"
     },
     "url":"/devwidgets/personinfo/personinfo.html"
 }

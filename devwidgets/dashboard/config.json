@@ -4,7 +4,8 @@
     "hasSettings":true,
     "id":"dashboard",
     "i18n": {
-        "default": "/devwidgets/dashboard/bundles/default.properties"
+        "default": "/devwidgets/dashboard/bundles/default.properties",
+        "zh_HK": "/devwidgets/dashboard/bundles/zh_HK.properties"
     },
     "img":"/devwidgets/comments/images/comments.png",
     "name":"Dashboard",
