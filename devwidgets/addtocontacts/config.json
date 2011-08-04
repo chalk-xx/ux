@@ -3,7 +3,8 @@
     "name":"Add a contact",
     "i18n": {
         "default": "/devwidgets/addtocontacts/bundles/default.properties",
-        "zh_CN": "/devwidgets/addtocontacts/bundles/zh_CN.properties"
+        "zh_CN": "/devwidgets/addtocontacts/bundles/zh_CN.properties",
+        "zh_HK": "/devwidgets/addtocontacts/bundles/zh_HK.properties"
     },
     "id":"addtocontacts",
     "type":"core",

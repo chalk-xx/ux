@@ -1,18 +1,19 @@
 {
-    "description":        "Recent Activity Widget",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        true,
+    "description":"Recent Activity Widget",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":true,
     "i18n": {
-        "default":        "/devwidgets/recentactivity/bundles/default.properties"
+        "default":"/devwidgets/recentactivity/bundles/default.properties",
+        "zh_HK":"/devwidgets/recentactivity/bundles/zh_HK.properties"
     },
-    "id":                 "recentactivity",
-    "name":               "Recent Activity Widget",
-    "personalportal":     false,
-    "showinsakaigoodies": false,
-    "type":               "sakai",
-    "url":                "/devwidgets/recentactivity/recentactivity.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "id":"recentactivity",
+    "name":"Recent Activity Widget",
+    "personalportal":false,
+    "showinsakaigoodies":false,
+    "type":"sakai",
+    "url":"/devwidgets/recentactivity/recentactivity.html",
+    "userdashboard":false,
+    "userpages":false
 }

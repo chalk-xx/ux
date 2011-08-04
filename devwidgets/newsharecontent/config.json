@@ -1,14 +1,15 @@
 {
     "description":"Share content widget",
-    "hasSettings": false,
+    "hasSettings":false,
     "id": "newsharecontent",
     "i18n": {
-        "default": "/devwidgets/newsharecontent/bundles/default.properties"
+        "default": "/devwidgets/newsharecontent/bundles/default.properties",
+        "zh_HK": "/devwidgets/newsharecontent/bundles/zh_HK.properties"
     },
-    "name": "Share Content",
+    "name":"Share Content",
     "type":"core",
     "enabled":true,
-    "url": "/devwidgets/newsharecontent/newsharecontent.html",
+    "url":"/devwidgets/newsharecontent/newsharecontent.html",
     "defaultConfiguration": {
         "newsharecontent": {
             "addThisAccountId": "xa-4db72a071927628b"

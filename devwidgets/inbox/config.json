@@ -1,13 +1,14 @@
 {
-    "description": "Inbox",
+    "description":"Inbox",
     "i18n": {
-        "default": "/devwidgets/inbox/bundles/default.properties"
+        "default":"/devwidgets/inbox/bundles/default.properties",
+        "zh_HK":"/devwidgets/inbox/bundles/zh_HK.properties"
     },
-    "id": "inbox",
-    "name": "inbox",
+    "id":"inbox",
+    "name":"inbox",
     "personalportal":false,
-    "type": "sakai",
-    "enabled": true,
+    "type":"sakai",
+    "enabled":true,
     "url":"/devwidgets/inbox/inbox.html",
-    "hashParams": ["message", "newmessage", "reply", "iq"]
+    "hashParams":["message", "newmessage", "reply", "iq"]
 }

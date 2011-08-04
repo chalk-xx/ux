@@ -5,8 +5,9 @@
     "hasSettings":false,
     "type":"core",
     "enabled":true,
-    "i18n": {
-        "default": "/devwidgets/relatedcontent/bundles/default.properties"
+    "i18n":{
+        "default": "/devwidgets/relatedcontent/bundles/default.properties",
+        "zh_HK": "/devwidgets/relatedcontent/bundles/zh_HK.properties"
     },
     "url":"/devwidgets/relatedcontent/relatedcontent.html"
 }

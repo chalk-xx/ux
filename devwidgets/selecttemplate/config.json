@@ -3,8 +3,9 @@
     "name":"Select Template",
     "id":"selecttemplate",
     "i18n": {
-        "default": "/devwidgets/selecttemplate/bundles/default.properties",
-        "en_US": "/devwidgets/selecttemplate/bundles/en_US.properties"
+        "default":"/devwidgets/selecttemplate/bundles/default.properties",
+        "en_US":"/devwidgets/selecttemplate/bundles/en_US.properties",
+        "zh_HK":"/devwidgets/selecttemplate/bundles/zh_HK.properties"
     },
     "type":"core",
     "enabled":true,

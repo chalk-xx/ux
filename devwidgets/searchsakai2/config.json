@@ -1,15 +1,16 @@
 {
-    "id":                 "searchsakai2",
-    "name":               "Search Sakai 2",
-    "description":        "Search Sakai 2",
-    "type":               "core",
-    "enabled":            false,
-    "hasSettings":        false,
-    "url":                "/devwidgets/searchsakai2/searchsakai2.html",
+    "id":"searchsakai2",
+    "name":"Search Sakai 2",
+    "description":"Search Sakai 2",
+    "type":"core",
+    "enabled":false,
+    "hasSettings":false,
+    "url":"/devwidgets/searchsakai2/searchsakai2.html",
     "i18n": {
-        "default":        "/devwidgets/searchsakai2/bundles/default.properties"
+        "default":"/devwidgets/searchsakai2/bundles/default.properties",
+        "zh_HK":"/devwidgets/searchsakai2/bundles/zh_HK.properties"
     },
-    "personalportal":     false,
-    "sakaidocs":          false,
-    "showinsakaigoodies": false
+    "personalportal":false,
+    "sakaidocs":false,
+    "showinsakaigoodies":false
 }

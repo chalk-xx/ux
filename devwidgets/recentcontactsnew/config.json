@@ -3,7 +3,8 @@
     "name":"My recent contacts",
     "id":"recentcontactsnew",
     "i18n": {
-        "default": "/devwidgets/recentcontactsnew/bundles/default.properties"
+        "default":"/devwidgets/recentcontactsnew/bundles/default.properties",
+        "zh_HK":"/devwidgets/recentcontactsnew/bundles/zh_HK.properties"
     },
     "personalportal":true,
     "hasSettings":false,

@@ -2,8 +2,9 @@
     "description":"My content",
     "name":"My content",
     "id":"mycontent",
-    "i18n": {
-        "default": "/devwidgets/mycontent/bundles/default.properties"
+    "i18n":{
+        "default":"/devwidgets/mycontent/bundles/default.properties",
+        "zh_HK":"/devwidgets/mycontent/bundles/zh_HK.properties"
     },
     "personalportal":true,
     "hasSettings":false,

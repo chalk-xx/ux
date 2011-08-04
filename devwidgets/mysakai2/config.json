@@ -1,7 +1,8 @@
 {
     "description":"My Sakai 2 favourites",
-    "i18n": {
-        "default": "/devwidgets/mysakai2/bundles/default.properties"
+    "i18n":{
+        "default":"/devwidgets/mysakai2/bundles/default.properties",
+        "zh_HK":"/devwidgets/mysakai2/bundles/zh_HK.properties"
     },
     "id":"mysakai2",
     "name":"My Sakai 2 favourites",

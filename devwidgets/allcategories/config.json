@@ -1,18 +1,19 @@
 {
-    "description":        "All Categories Widget",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        true,
+    "description":"All Categories Widget",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":true,
     "i18n": {
-        "default":        "/devwidgets/allcategories/bundles/default.properties"
+        "default":"/devwidgets/allcategories/bundles/default.properties",
+        "zh_HK":"/devwidgets/allcategories/bundles/zh_HK.properties"
     },
-    "id":                 "allcategories",
-    "name":               "All Categories Widget",
-    "personalportal":     false,
-    "showinsakaigoodies": false,
-    "type":               "sakai",
-    "url":                "/devwidgets/allcategories/allcategories.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "id":"allcategories",
+    "name":"All Categories Widget",
+    "personalportal":false,
+    "showinsakaigoodies":false,
+    "type":"sakai",
+    "url":"/devwidgets/allcategories/allcategories.html",
+    "userdashboard":false,
+    "userpages":false
 }

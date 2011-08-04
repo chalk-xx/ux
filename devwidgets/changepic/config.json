@@ -1,8 +1,9 @@
 {
     "i18n": {
-        "default": "/devwidgets/changepic/bundles/default.properties",
-        "en_US": "/devwidgets/changepic/bundles/en_US.properties",
-        "zh_CN": "/devwidgets/changepic/bundles/zh_CN.properties"
+        "default":"/devwidgets/changepic/bundles/default.properties",
+        "en_US":"/devwidgets/changepic/bundles/en_US.properties",
+        "zh_CN":"/devwidgets/changepic/bundles/zh_CN.properties",
+        "zh_HK":"/devwidgets/changepic/bundles/zh_HK.properties"
     },
     "id":"changepic",
     "name":"changepic",

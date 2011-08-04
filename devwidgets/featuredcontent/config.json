@@ -1,18 +1,19 @@
 {
-    "description":        "Featured Content Widget",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        true,
+    "description":"Featured Content Widget",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":true,
     "i18n": {
-        "default":        "/devwidgets/featuredcontent/bundles/default.properties"
+        "default":"/devwidgets/featuredcontent/bundles/default.properties",
+        "zh_HK":"/devwidgets/featuredcontent/bundles/zh_HK.properties"
     },
-    "id":                 "featuredcontent",
-    "name":               "Featured Content Widget",
-    "personalportal":     false,
-    "showinsakaigoodies": false,
-    "type":               "sakai",
-    "url":                "/devwidgets/featuredcontent/featuredcontent.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "id":"featuredcontent",
+    "name":"Featured Content Widget",
+    "personalportal":false,
+    "showinsakaigoodies":false,
+    "type":"sakai",
+    "url":"/devwidgets/featuredcontent/featuredcontent.html",
+    "userdashboard":false,
+    "userpages":false
 }

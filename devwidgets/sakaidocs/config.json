@@ -1,18 +1,19 @@
 {
-    "description":        "Sakai Docs",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        false,
+    "description":"Sakai Docs",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":false,
     "i18n": {
-        "default":        "/devwidgets/sakaidocs/bundles/default.properties"
+        "default":"/devwidgets/sakaidocs/bundles/default.properties",
+        "zh_HK":"/devwidgets/sakaidocs/bundles/zh_HK.properties"
     },
-    "id":                 "sakaidocs",
-    "name":               "Sakai Docs",
-    "personalportal":     false,
+    "id":"sakaidocs",
+    "name":"Sakai Docs",
+    "personalportal":false,
     "showinsakaigoodies": false,
-    "type":               "contrib",
-    "url":                "/devwidgets/sakaidocs/sakaidocs.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "type":"contrib",
+    "url":"/devwidgets/sakaidocs/sakaidocs.html",
+    "userdashboard":false,
+    "userpages":false
 }

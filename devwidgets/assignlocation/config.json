@@ -3,7 +3,8 @@
     "hasSettings": false,
     "id": "assignlocation",
     "i18n": {
-        "default": "/devwidgets/assignlocation/bundles/default.properties"
+        "default": "/devwidgets/assignlocation/bundles/default.properties",
+        "zh_HK": "/devwidgets/assignlocation/bundles/zh_HK.properties"
     },
     "name": "Assign Location",
     "type":"core",

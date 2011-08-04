@@ -1,10 +1,11 @@
 {
     "description":"topnavigation",
     "i18n": {
-        "default": "/devwidgets/topnavigation/bundles/default.properties",
-        "en_US": "/devwidgets/topnavigation/bundles/en_US.properties",
-        "nl_NL": "/devwidgets/topnavigation/bundles/nl_NL.properties",
-        "zh_CN": "/devwidgets/topnavigation/bundles/zh_CN.properties"
+        "default":"/devwidgets/topnavigation/bundles/default.properties",
+        "en_US":"/devwidgets/topnavigation/bundles/en_US.properties",
+        "nl_NL":"/devwidgets/topnavigation/bundles/nl_NL.properties",
+        "zh_CN":"/devwidgets/topnavigation/bundles/zh_CN.properties",
+        "zh_HK":"/devwidgets/topnavigation/bundles/zh_HK.properties"
     },
     "id":"topnavigation",
     "name":"topnavigation",

@@ -1,18 +1,19 @@
 {
-    "description":        "View and manage a user's library items",
-    "enabled":            true,
-    "groupdashboard":     false,
-    "grouppages":         true,
-    "hasSettings":        false,
+    "description":"View and manage a user's library items",
+    "enabled":true,
+    "groupdashboard":false,
+    "grouppages":true,
+    "hasSettings":false,
     "i18n": {
-        "default":        "/devwidgets/mylibrary/bundles/default.properties"
+        "default":"/devwidgets/mylibrary/bundles/default.properties",
+        "zh_HK":"/devwidgets/mylibrary/bundles/zh_HK.properties"
     },
-    "id":                 "mylibrary",
-    "name":               "My Library",
-    "personalportal":     false,
+    "id":"mylibrary",
+    "name":"My Library",
+    "personalportal":false,
     "showinsakaigoodies": true,
-    "type":               "sakai",
-    "url":                "/devwidgets/mylibrary/mylibrary.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "type":"sakai",
+    "url":"/devwidgets/mylibrary/mylibrary.html",
+    "userdashboard":false,
+    "userpages":false
 }

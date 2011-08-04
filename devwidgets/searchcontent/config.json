@@ -1,18 +1,19 @@
 {
-    "description":        "Search Content",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        false,
+    "description":"Search Content",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":false,
     "i18n": {
-        "default":        "/devwidgets/searchcontent/bundles/default.properties"
+        "default":"/devwidgets/searchcontent/bundles/default.properties",
+        "zh_HK":"/devwidgets/searchcontent/bundles/zh_HK.properties"
     },
-    "id":                 "searchcontent",
-    "name":               "Search Content",
-    "personalportal":     false,
-    "showinsakaigoodies": false,
-    "type":               "core",
-    "url":                "/devwidgets/searchcontent/searchcontent.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "id":"searchcontent",
+    "name":"Search Content",
+    "personalportal":false,
+    "showinsakaigoodies":false,
+    "type":"core",
+    "url":"/devwidgets/searchcontent/searchcontent.html",
+    "userdashboard":false,
+    "userpages":false
 }

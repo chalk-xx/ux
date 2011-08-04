@@ -1,17 +1,18 @@
 {
-    "userpages": false,
-    "userdashboard": true,
-    "grouppages": false,
-    "groupdashboard": true,
-    "description": "Text",
-    "hasSettings": true,
-    "id": "text",
-    "name": "",
-    "type": "sakai",
-    "enabled": true,
+    "userpages":false,
+    "userdashboard":true,
+    "grouppages":false,
+    "groupdashboard":true,
+    "description":"Text",
+    "hasSettings":true,
+    "id":"text",
+    "name":"",
+    "type":"sakai",
+    "enabled":true,
     "url":"/devwidgets/text/text.html",
-    "i18n": {
-        "default": "/devwidgets/text/bundles/default.properties"
+    "i18n":{
+        "default": "/devwidgets/text/bundles/default.properties",
+        "zh_HK": "/devwidgets/text/bundles/zh_HK.properties"
     },
-    "indexFields": ["data/text"]
+    "indexFields":["data/text"]
 }

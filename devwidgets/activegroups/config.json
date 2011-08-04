@@ -12,6 +12,7 @@
     "enabled": true,
     "url":"/devwidgets/activegroups/activegroups.html",
     "i18n": {
-        "default": "/devwidgets/activegroups/bundles/default.properties"
+        "default": "/devwidgets/activegroups/bundles/default.properties",
+        "zh_HK": "/devwidgets/activegroups/bundles/zh_HK.properties"
     }
 }

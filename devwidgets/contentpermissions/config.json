@@ -1,12 +1,13 @@
 {
     "description":"Content permissions widget",
-    "hasSettings": false,
-    "id": "contentpermissions",
-    "i18n": {
-        "default": "/devwidgets/contentpermissions/bundles/default.properties"
+    "hasSettings":false,
+    "id":"contentpermissions",
+    "i18n":{
+        "default":"/devwidgets/contentpermissions/bundles/default.properties",
+        "zh_HK":"/devwidgets/contentpermissions/bundles/zh_HK.properties"
     },
-    "name": "Content Permissions",
+    "name":"Content Permissions",
     "type":"core",
     "enabled":true,
-    "url": "/devwidgets/contentpermissions/contentpermissions.html"
+    "url":"/devwidgets/contentpermissions/contentpermissions.html"
 }

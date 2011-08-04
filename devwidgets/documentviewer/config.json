@@ -6,7 +6,8 @@
     "type":"core",
     "enabled":true,
     "i18n": {
-        "default": "/devwidgets/documentviewer/bundles/default.properties"
+        "default": "/devwidgets/documentviewer/bundles/default.properties",
+        "zh_HK": "/devwidgets/documentviewer/bundles/zh_HK.properties"
     },
     "url":"/devwidgets/documentviewer/documentviewer.html"
 }

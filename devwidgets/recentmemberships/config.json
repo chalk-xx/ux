@@ -3,7 +3,8 @@
     "name":"My recent memberships",
     "id":"recentmemberships",
     "i18n": {
-        "default": "/devwidgets/recentmemberships/bundles/default.properties"
+        "default":"/devwidgets/recentmemberships/bundles/default.properties",
+        "zh_HK":"/devwidgets/recentmemberships/bundles/zh_HK.properties"
     },
     "personalportal":true,
     "hasSettings":false,

@@ -1,8 +1,9 @@
 {
     "description":"Send a message",
-    "i18n": {
-        "default": "/devwidgets/sendmessage/bundles/default.properties",
-        "zh_CN": "/devwidgets/sendmessage/bundles/zh_CN.properties"
+    "i18n":{
+        "default":"/devwidgets/sendmessage/bundles/default.properties",
+        "zh_CN":"/devwidgets/sendmessage/bundles/zh_CN.properties",
+        "zh_HK":"/devwidgets/sendmessage/bundles/zh_HK.properties"
     },
     "id":"sendmessage",
     "name":"Send a message",

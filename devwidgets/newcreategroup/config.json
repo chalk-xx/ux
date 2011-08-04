@@ -3,8 +3,9 @@
     "name":"Create Group",
     "id":"newcreategroup",
     "i18n": {
-        "default": "/devwidgets/newcreategroup/bundles/default.properties",
-        "en_US": "/devwidgets/newcreategroup/bundles/en_US.properties"
+        "default":"/devwidgets/newcreategroup/bundles/default.properties",
+        "en_US":"/devwidgets/newcreategroup/bundles/en_US.properties",
+        "zh_HK":"/devwidgets/newcreategroup/bundles/zh_HK.properties"
     },
     "type":"core",
     "enabled":true,

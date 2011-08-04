@@ -1,8 +1,8 @@
 {
-    "userpages": true,
-    "userdashboard": true,
-    "grouppages": true,
-    "groupdashboard": true,
+    "userpages":true,
+    "userdashboard":true,
+    "grouppages":true,
+    "groupdashboard":true,
     "description":"Video",
     "hasSettings":true,
     "id":"video",
@@ -12,8 +12,9 @@
     "type":"sakai",
     "enabled":true,
     "url":"/devwidgets/video/video.html",
-    "i18n": {
-        "default": "/devwidgets/video/bundles/default.properties"
+    "i18n":{
+        "default": "/devwidgets/video/bundles/default.properties",
+        "zh_HK": "/devwidgets/video/bundles/zh_HK.properties"
     },
-    "indexFields": ["source", "title", "url"]
+    "indexFields":["source", "title", "url"]
 }

@@ -1,13 +1,14 @@
 {
     "description":"Content Comments",
-    "userpages": false,
-    "userdashboard": false,
-    "grouppages": false,
-    "groupdashboard": false,
+    "userpages":false,
+    "userdashboard":false,
+    "grouppages":false,
+    "groupdashboard":false,
     "hasSettings":true,
     "id":"contentcomments",
-    "i18n": {
-        "default": "/devwidgets/contentcomments/bundles/default.properties"
+    "i18n":{
+        "default":"/devwidgets/contentcomments/bundles/default.properties",
+        "zh_HK":"/devwidgets/contentcomments/bundles/zh_HK.properties"
     },
     "img":"/devwidgets/contentcomments/images/comments.png",
     "name":"Content Comments",

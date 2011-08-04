@@ -4,6 +4,7 @@
     "type":"core",
     "enabled":true,
     "i18n": {
-        "default": "/devwidgets/entity/bundles/default.properties"
+        "default":"/devwidgets/entity/bundles/default.properties",
+        "zh_HK":"/devwidgets/entity/bundles/zh_HK.properties"
     }
 }

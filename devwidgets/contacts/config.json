@@ -1,12 +1,13 @@
 {
-    "description": "Contacts",
+    "description":"Contacts",
     "i18n": {
-        "default": "/devwidgets/contacts/bundles/default.properties"
+        "default":"/devwidgets/contacts/bundles/default.properties",
+        "zh_HK":"/devwidgets/contacts/bundles/zh_HK.properties"
     },
-    "id": "contacts",
-    "name": "contacts",
+    "id":"contacts",
+    "name":"contacts",
     "personalportal":false,
-    "type": "sakai",
-    "enabled": true,
+    "type":"sakai",
+    "enabled":true,
     "url":"/devwidgets/contacts/contacts.html"
 }

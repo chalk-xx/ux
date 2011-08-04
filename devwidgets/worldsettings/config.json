@@ -1,20 +1,21 @@
 {
-    "ca":                 false,
-    "description":        "Edit World Settings",
-    "enabled":            true,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        false,
-    "sakaidocs":          false,
-    "i18n": {
-        "default":        "/devwidgets/worldsettings/bundles/default.properties"
+    "ca":false,
+    "description":"Edit World Settings",
+    "enabled":true,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":false,
+    "sakaidocs":false,
+    "i18n":{
+        "default":"/devwidgets/worldsettings/bundles/default.properties",
+        "zh_HK":"/devwidgets/worldsettings/bundles/zh_HK.properties"
     },
-    "id":                 "worldsettings",
-    "name":               "World Settings",
-    "personalportal":     false,
+    "id":"worldsettings",
+    "name":"World Settings",
+    "personalportal":false,
     "showinsakaigoodies": false,
-    "type":               "core",
-    "url":                "/devwidgets/worldsettings/worldsettings.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "type":"core",
+    "url":"/devwidgets/worldsettings/worldsettings.html",
+    "userdashboard":false,
+    "userpages":false
 }

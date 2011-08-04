@@ -6,7 +6,8 @@
     "type":"core",
     "enabled":true,
     "i18n": {
-        "default": "/devwidgets/contentpreview/bundles/default.properties"
+        "default": "/devwidgets/contentpreview/bundles/default.properties",
+        "zh_HK": "/devwidgets/contentpreview/bundles/zh_HK.properties"
     },
     "url":"/devwidgets/contentpreview/contentpreview.html"
 }

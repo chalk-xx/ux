@@ -1,18 +1,19 @@
 {
-    "description":        "User Permissions",
-    "enabled":            true,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        false,
-    "i18n": {
-        "default":        "/devwidgets/userpermissions/bundles/default.properties"
+    "description":"User Permissions",
+    "enabled":true,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":false,
+    "i18n":{
+        "default":"/devwidgets/userpermissions/bundles/default.properties",
+        "zh_HK":"/devwidgets/userpermissions/bundles/zh_HK.properties"
     },
-    "id":                 "userpermissions",
-    "name":               "User Permissions",
-    "personalportal":     false,
-    "showinsakaigoodies": false,
-    "type":               "core",
-    "url":                "/devwidgets/userpermissions/userpermissions.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "id":"userpermissions",
+    "name":"User Permissions",
+    "personalportal":false,
+    "showinsakaigoodies":false,
+    "type":"core",
+    "url":"/devwidgets/userpermissions/userpermissions.html",
+    "userdashboard":false,
+    "userpages":false
 }

@@ -1,12 +1,13 @@
 {
     "description":"Embed Content on a Page",
-    "grouppages": true,
-    "userpages": true,
-    "hasSettings": true,
-    "sakaidocs": true,
+    "grouppages":true,
+    "userpages":true,
+    "hasSettings":true,
+    "sakaidocs":true,
     "id":"embedcontent",
-    "i18n": {
-        "default": "/devwidgets/embedcontent/bundles/default.properties"
+    "i18n":{
+        "default":"/devwidgets/embedcontent/bundles/default.properties",
+        "zh_HK":"/devwidgets/embedcontent/bundles/zh_HK.properties"
     },
     "name":"Files and documents",
     "img":"/devwidgets/embedcontent/images/content.png",

@@ -5,7 +5,8 @@
     "type":"core",
     "enabled":true,
     "i18n": {
-        "default": "/devwidgets/profilesection/bundles/default.properties"
+        "default": "/devwidgets/profilesection/bundles/default.properties",
+        "zh_HK": "/devwidgets/profilesection/bundles/zh_HK.properties"
     },
     "url":"/devwidgets/profilesection/profilesection.html"
 }

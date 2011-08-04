@@ -3,7 +3,8 @@
     "type":"core",
     "enabled":true,
     "i18n": {
-        "default": "/devwidgets/contentmetadata/bundles/default.properties"
+        "default": "/devwidgets/contentmetadata/bundles/default.properties",
+        "zh_HK": "/devwidgets/contentmetadata/bundles/zh_HK.properties"
     },
     "url":"/devwidgets/contentmetadata/contentmetadata.html"
 }

@@ -5,12 +5,13 @@
     "name":"Poll",
     "showinsakaigoodies":true,
     "i18n": {
-        "default": "/devwidgets/poll/bundles/default.properties"
+        "default": "/devwidgets/poll/bundles/default.properties",
+        "zh_HK": "/devwidgets/poll/bundles/zh_HK.properties"
     },
-    "userpages": false,
-    "userdashboard": false,
-    "grouppages": false,
-    "groupdashboard": false,
+    "userpages":false,
+    "userdashboard":false,
+    "grouppages":false,
+    "groupdashboard":false,
     "type":"sakai",
     "enabled":true,
     "url":"/devwidgets/poll/poll.html"

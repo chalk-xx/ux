@@ -1,9 +1,10 @@
 {
-    "description": "Create Page Widget",
-    "name": "Create Page",
-    "id": "createpage",
-    "i18n": {
-        "default": "/devwidgets/createpage/bundles/default.properties"
+    "description":"Create Page Widget",
+    "name":"Create Page",
+    "id":"createpage",
+    "i18n":{
+        "default":"/devwidgets/createpage/bundles/default.properties",
+        "zh_HK":"/devwidgets/createpage/bundles/zh_HK.properties"
     },
     "type":"core",
     "enabled":true,

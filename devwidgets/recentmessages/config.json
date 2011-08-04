@@ -1,8 +1,9 @@
 {
     "description":"My recent messages",
     "i18n": {
-        "default": "/devwidgets/recentmessages/bundles/default.properties",
-        "en_US": "/devwidgets/recentmessages/bundles/en_US.properties"
+        "default":"/devwidgets/recentmessages/bundles/default.properties",
+        "en_US":"/devwidgets/recentmessages/bundles/en_US.properties",
+        "zh_HK":"/devwidgets/recentmessages/bundles/zh_HK.properties"
     },
     "id":"recentmessages",
     "name":"My recent messages",

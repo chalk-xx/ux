@@ -2,8 +2,9 @@
     "description":"My recent content",
     "name":"My recent content",
     "id":"recentchangedcontent",
-    "i18n": {
-        "default": "/devwidgets/recentchangedcontent/bundles/default.properties"
+    "i18n":{
+        "default":"/devwidgets/recentchangedcontent/bundles/default.properties",
+        "zh_HK":"/devwidgets/recentchangedcontent/bundles/zh_HK.properties"
     },
     "personalportal":true,
     "hasSettings":false,

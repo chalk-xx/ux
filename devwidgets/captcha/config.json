@@ -2,7 +2,8 @@
     "description":"Display a captcha widget",
     "name":"Captcha Widget",
     "i18n": {
-        "default": "/devwidgets/captcha/bundles/default.properties"
+        "default": "/devwidgets/captcha/bundles/default.properties",
+        "zh_HK": "/devwidgets/captcha/bundles/zh_HK.properties"
     },
     "id":"captcha",
     "type":"core",

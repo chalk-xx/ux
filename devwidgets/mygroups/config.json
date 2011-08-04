@@ -1,14 +1,15 @@
 {
     "description":"My memberships",
-    "i18n": {
-        "default": "/devwidgets/mygroups/bundles/default.properties",
-        "en_US": "/devwidgets/mygroups/bundles/en_US.properties",
-        "zh_CN": "/devwidgets/mygroups/bundles/zh_CN.properties"
+    "i18n":{
+        "default":"/devwidgets/mygroups/bundles/default.properties",
+        "en_US":"/devwidgets/mygroups/bundles/en_US.properties",
+        "zh_CN":"/devwidgets/mygroups/bundles/zh_CN.properties",
+        "zh_HK":"/devwidgets/mygroups/bundles/zh_HK.properties"
     },
     "id":"mygroups",
     "name":"My memberships",
     "personalportal":true,
-    "deletable": true,
+    "deletable":true,
     "type":"sakai",
     "enabled":true,
     "url":"/devwidgets/mygroups/mygroups.html"

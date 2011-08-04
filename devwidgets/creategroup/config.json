@@ -4,7 +4,8 @@
     "id":"creategroup",
     "i18n": {
         "default": "/devwidgets/creategroup/bundles/default.properties",
-        "en_US": "/devwidgets/creategroup/bundles/en_US.properties"
+        "en_US": "/devwidgets/creategroup/bundles/en_US.properties",
+        "zh_HK": "/devwidgets/creategroup/bundles/zh_HK.properties"
     },
     "type":"core",
     "enabled":true,

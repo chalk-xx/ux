@@ -1,15 +1,16 @@
 {
-    "userpages": true,
-    "userdashboard": true,
-    "grouppages": true,
-    "groupdashboard": true,
-    "sakaidocs": true,
-    "hasSettings": true,
+    "userpages":true,
+    "userdashboard":true,
+    "grouppages":true,
+    "groupdashboard":true,
+    "sakaidocs":true,
+    "hasSettings":true,
     "description":"Google maps",
     "i18n": {
-        "default": "/devwidgets/googlemaps/bundles/default.properties",
-        "en_US": "/devwidgets/googlemaps/bundles/en_US.properties",
-        "zh_CN": "/devwidgets/googlemaps/bundles/zh_CN.properties"
+        "default":"/devwidgets/googlemaps/bundles/default.properties",
+        "en_US":"/devwidgets/googlemaps/bundles/en_US.properties",
+        "zh_CN":"/devwidgets/googlemaps/bundles/zh_CN.properties",
+        "zh_HK":"/devwidgets/googlemaps/bundles/zh_HK.properties"
     },
     "id":"googlemaps",
     "img":"/devwidgets/googlemaps/images/googlemaps.png",

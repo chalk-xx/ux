@@ -1,9 +1,10 @@
 {
     "description":"Dynamic Footer with Debug Info",
     "i18n": {
-        "default": "/devwidgets/footer/bundles/default.properties",
-        "en_US": "/devwidgets/footer/bundles/en_US.properties",
-        "zh_CN": "/devwidgets/footer/bundles/zh_CN.properties"
+        "default":"/devwidgets/footer/bundles/default.properties",
+        "en_US":"/devwidgets/footer/bundles/en_US.properties",
+        "zh_CN":"/devwidgets/footer/bundles/zh_CN.properties",
+        "zh_HK":"/devwidgets/footer/bundles/zh_HK.properties"
     },
     "id":"footer",
     "name":"Dynamic Footer",

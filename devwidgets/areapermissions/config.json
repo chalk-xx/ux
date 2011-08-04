@@ -1,18 +1,19 @@
 {
-    "description":        "Area Permissions",
-    "enabled":            true,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        false,
+    "description":"Area Permissions",
+    "enabled":true,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":false,
     "i18n": {
-        "default":        "/devwidgets/areapermissions/bundles/default.properties"
+        "default":"/devwidgets/areapermissions/bundles/default.properties",
+        "zh_HK":"/devwidgets/areapermissions/bundles/zh_HK.properties"
     },
-    "id":                 "areapermissions",
-    "name":               "Area Permissions",
-    "personalportal":     false,
-    "showinsakaigoodies": false,
-    "type":               "core",
-    "url":                "/devwidgets/areapermissions/areapermissions.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "id":"areapermissions",
+    "name":"Area Permissions",
+    "personalportal":false,
+    "showinsakaigoodies":false,
+    "type":"core",
+    "url":"/devwidgets/areapermissions/areapermissions.html",
+    "userdashboard":false,
+    "userpages":false
 }

@@ -1,12 +1,13 @@
 {
-    "description": "Join Group Overlay",
-    "i18n": {
-        "default": "/devwidgets/joingroup/bundles/default.properties"
+    "description":"Join Group Overlay",
+    "i18n":{
+        "default":"/devwidgets/joingroup/bundles/default.properties",
+        "zh_HK":"/devwidgets/joingroup/bundles/zh_HK.properties"
     },
-    "id": "joingroup",
-    "name": "Join Group Overlay",
+    "id":"joingroup",
+    "name":"Join Group Overlay",
     "personalportal":false,
-    "type": "sakai",
-    "enabled": true,
+    "type":"sakai",
+    "enabled":true,
     "url":"/devwidgets/joingroup/joingroup.html"
 }

@@ -1,11 +1,12 @@
 {
     "description":"My contacts",
     "id":"mycontacts",
-    "multipleinstance": false,
+    "multipleinstance":false,
     "i18n": {
-        "default": "/devwidgets/mycontacts/bundles/default.properties",
-        "en_US": "/devwidgets/mycontacts/bundles/en_US.properties",
-        "zh_CN": "/devwidgets/mycontacts/bundles/zh_CN.properties"
+        "default":"/devwidgets/mycontacts/bundles/default.properties",
+        "en_US":"/devwidgets/mycontacts/bundles/en_US.properties",
+        "zh_CN":"/devwidgets/mycontacts/bundles/zh_CN.properties",
+        "zh_HK":"/devwidgets/mycontacts/bundles/zh_HK.properties"
     },
     "name":"My contacts",
     "personalportal":true,

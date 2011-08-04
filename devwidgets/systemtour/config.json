@@ -1,13 +1,14 @@
 {
     "description":"Tracks System Tour Progress",
-    "userpages": false,
-    "userdashboard": false,
-    "grouppages": false,
-    "groupdashboard": false,
+    "userpages":false,
+    "userdashboard":false,
+    "grouppages":false,
+    "groupdashboard":false,
     "hasSettings":false,
     "id":"systemtour",
     "i18n": {
-        "default": "/devwidgets/systemtour/bundles/default.properties"
+        "default":"/devwidgets/systemtour/bundles/default.properties",
+        "zh_HK":"/devwidgets/systemtour/bundles/zh_HK.properties"
     },
     "name":"System Tour",
     "showinsakaigoodies":false,

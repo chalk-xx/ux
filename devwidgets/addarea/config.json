@@ -1,18 +1,19 @@
 {
-    "description":        "Add Area Widget",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        true,
+    "description":"Add Area Widget",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":true,
     "i18n": {
-        "default":        "/devwidgets/addarea/bundles/default.properties"
+        "default":"/devwidgets/addarea/bundles/default.properties",
+        "zh_HK":"/devwidgets/addarea/bundles/zh_HK.properties"
     },
-    "id":                 "addarea",
-    "name":               "Add Area Widget",
-    "personalportal":     false,
-    "showinsakaigoodies": false,
-    "type":               "sakai",
-    "url":                "/devwidgets/addarea/addarea.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "id":"addarea",
+    "name":"Add Area Widget",
+    "personalportal":false,
+    "showinsakaigoodies":false,
+    "type":"sakai",
+    "url":"/devwidgets/addarea/addarea.html",
+    "userdashboard":false,
+    "userpages":false
 }

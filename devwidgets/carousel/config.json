@@ -1,18 +1,19 @@
 {
-    "description":        "Carousel widget",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        true,
+    "description":"Carousel widget",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":       false,
+    "hasSettings":true,
     "i18n": {
-        "default":        "/devwidgets/carousel/bundles/default.properties"
+        "default":"/devwidgets/carousel/bundles/default.properties",
+        "zh_HK":"/devwidgets/carousel/bundles/zh_HK.properties"
     },
-    "id":                 "carousel",
-    "name":               "Carousel",
-    "personalportal":     false,
+    "id":"carousel",
+    "name":"Carousel",
+    "personalportal":false,
     "showinsakaigoodies": false,
-    "type":               "sakai",
-    "url":                "/devwidgets/carousel/carousel.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "type":"sakai",
+    "url":"/devwidgets/carousel/carousel.html",
+    "userdashboard":false,
+    "userpages":false
 }

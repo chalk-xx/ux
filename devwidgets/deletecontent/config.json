@@ -2,7 +2,8 @@
     "description":"Delete content widget",
     "id":"deletecontent",
     "i18n": {
-        "default": "/devwidgets/deletecontent/bundles/default.properties"
+        "default": "/devwidgets/deletecontent/bundles/default.properties",
+        "zh_HK": "/devwidgets/deletecontent/bundles/zh_HK.properties"
     },
     "name":"Delete Content",
     "type":"core",

@@ -1,12 +1,13 @@
 {
-    "description": "My Memberships",
-    "i18n": {
-        "default": "/devwidgets/mymemberships/bundles/default.properties"
+    "description":"My Memberships",
+    "i18n":{
+        "default":"/devwidgets/mymemberships/bundles/default.properties",
+        "zh_HK":"/devwidgets/mymemberships/bundles/zh_HK.properties"
     },
-    "id": "mymemberships",
-    "name": "My Memberships",
+    "id":"mymemberships",
+    "name":"My Memberships",
     "personalportal":false,
-    "type": "sakai",
-    "enabled": true,
+    "type":"sakai",
+    "enabled":true,
     "url":"/devwidgets/mymemberships/mymemberships.html"
 }

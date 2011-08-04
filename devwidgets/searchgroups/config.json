@@ -1,18 +1,19 @@
 {
-    "description":        "Search Groups",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        false,
+    "description":"Search Groups",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":false,
     "i18n": {
-        "default":        "/devwidgets/searchgroups/bundles/default.properties"
+        "default":"/devwidgets/searchgroups/bundles/default.properties",
+        "zh_HK":"/devwidgets/searchgroups/bundles/zh_HK.properties"
     },
-    "id":                 "searchgroups",
-    "name":               "Search Groups",
-    "personalportal":     false,
+    "id":"searchgroups",
+    "name":"Search Groups",
+    "personalportal":false,
     "showinsakaigoodies": false,
-    "type":               "core",
-    "url":                "/devwidgets/searchgroups/searchgroups.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "type":"core",
+    "url":"/devwidgets/searchgroups/searchgroups.html",
+    "userdashboard":false,
+    "userpages":false
 }

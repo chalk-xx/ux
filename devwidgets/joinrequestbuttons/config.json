@@ -3,7 +3,8 @@
     "name":"Join Request Buttons",
     "id":"joinrequestbuttons",
     "i18n": {
-        "default": "/devwidgets/joinrequestbuttons/bundles/default.properties"
+        "default":"/devwidgets/joinrequestbuttons/bundles/default.properties",
+        "zh_HK":"/devwidgets/joinrequestbuttons/bundles/zh_HK.properties"
     },
     "personalportal":false,
     "hasSettings":false,

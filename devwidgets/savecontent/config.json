@@ -5,8 +5,9 @@
     "hasSettings":false,
     "type":"sakai",
     "enabled":true,
-    "i18n": {
-        "default": "/devwidgets/savecontent/bundles/default.properties"
+    "i18n":{
+        "default": "/devwidgets/savecontent/bundles/default.properties",
+        "zh_HK": "/devwidgets/savecontent/bundles/zh_HK.properties"
     },
     "url":"/devwidgets/savecontent/savecontent.html"
 }

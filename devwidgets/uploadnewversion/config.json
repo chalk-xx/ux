@@ -1,18 +1,19 @@
 {
-    "description":        "Upload New Version Widget",
-    "enabled":            false,
-    "groupdashboard":     false,
-    "grouppages":         false,
-    "hasSettings":        true,
-    "i18n": {
-        "default":        "/devwidgets/uploadnewversion/bundles/default.properties"
+    "description":"Upload New Version Widget",
+    "enabled":false,
+    "groupdashboard":false,
+    "grouppages":false,
+    "hasSettings":true,
+    "i18n":{
+        "default":"/devwidgets/uploadnewversion/bundles/default.properties",
+        "zh_HK":"/devwidgets/uploadnewversion/bundles/zh_HK.properties"
     },
-    "id":                 "uploadnewversion",
-    "name":               "Upload New Version Widget",
-    "personalportal":     false,
-    "showinsakaigoodies": false,
-    "type":               "sakai",
-    "url":                "/devwidgets/uploadnewversion/uploadnewversion.html",
-    "userdashboard":      false,
-    "userpages":          false
+    "id":"uploadnewversion",
+    "name":"Upload New Version Widget",
+    "personalportal":false,
+    "showinsakaigoodies":false,
+    "type":"sakai",
+    "url":"/devwidgets/uploadnewversion/uploadnewversion.html",
+    "userdashboard":false,
+    "userpages":false
 }

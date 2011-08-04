@@ -1,13 +1,14 @@
 {
     "description":"General people lister widget",
-    "hasSettings": false,
-    "id": "listpeople",
-    "i18n": {
-        "default": "/devwidgets/listpeople/bundles/default.properties"
+    "hasSettings":false,
+    "id":"listpeople",
+    "i18n":{
+        "default": "/devwidgets/listpeople/bundles/default.properties",
+        "zh_HK": "/devwidgets/listpeople/bundles/zh_HK.properties"
     },
-    "name": "People Lister",
-    "url": "/devwidgets/listpeople/listpeople.html",
+    "name":"People Lister",
+    "url":"/devwidgets/listpeople/listpeople.html",
     "type":"core",
     "enabled":true,
-    "subNameInfoContent": "mimeTypeDescripton"
+    "subNameInfoContent":"mimeTypeDescripton"
 }
